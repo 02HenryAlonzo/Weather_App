@@ -8,9 +8,9 @@ Esta aplicación muestra información meteorológica actual y pronósticos para 
 ![Pantalla Principal](./public/C1.png)
 
 ### Mobile
-![Mobile](./public/C2.png)
-![Mobile](./public/C3.png)
-![Mobile](./public//C4.png)
+<img src="./public/C2.png" alt="Pantalla Principal"  height="250">
+<img src="./public/C3.png" alt="Pantalla Principal"  height="250">
+<img src="./public/C4.png" alt="Pantalla Principal"  height="250">
 
 ## Características
 
