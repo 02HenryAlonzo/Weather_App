@@ -5,12 +5,12 @@ Esta aplicación muestra información meteorológica actual y pronósticos para 
 ## Capturas de Pantalla
 
 ### Pantalla Principal
-![Pantalla Principal](/C1.png)
+![Pantalla Principal](./public/C1.png)
 
 ### Mobile
-![Mobile](/C2.png)
-![Mobile](/C3.png)
-![Mobile](/C4.png)
+![Mobile](./public/C2.png)
+![Mobile](./public/C3.png)
+![Mobile](./public//C4.png)
 
 ## Características
 
